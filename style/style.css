@@ -30,6 +30,10 @@ body {
     text-align: center;
 }
 
+#homepage {
+    font-weight: bold;
+}
+
 .topnav {
     overflow: hidden;
     background-color: rgb(255, 255, 255);
